@@ -1,0 +1,97 @@
+@charset "UTF-8";
+
+.conteudo-bandeira h1{
+ font-size: 2.3em;
+}
+
+
+.sobre{
+  flex-direction: row;
+}
+
+.decoration{
+  width: 350px;
+}
+
+.img-sobre{
+  width: 300px;
+  height: 450px;
+}
+
+.pilares{
+  flex-direction: row;
+  width: 80%;
+  gap: 25%;
+  
+ 
+}
+
+.cards{
+  margin: none;
+  
+}
+
+
+.card-pilar{
+  width: 350px;
+
+}
+
+.foto-pilares{
+  width: 500px;
+  height: 600px;
+
+}
+
+.contato{
+  background-attachment: fixed;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.contato h2{
+  font-size: 3em;
+  font-weight: 400;
+}
+
+
+
+
+.formulario{
+  width:35%;
+  
+}
+
+.contato-form h3{
+  text-align: left;
+
+}
+
+
+.form{
+  margin: 0;
+}
+
+  
+.sessao-footer{
+    gap: 40px;
+    justify-content: start;
+    flex-direction: row;
+  }
+  
+  .sessao-footer > div{
+  margin-top: 25px;
+  margin-right: 60px;
+  }
+ 
+  
+  .links-uteis > li{
+    font-size: 1.4em;
+    margin: 20px 0px;
+  }
+  
+
+
+
+  
+

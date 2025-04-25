@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+nav.menu ul {
+  gap: 20px;
+}
+
+
+.formulario{
+  width:55%;
+  
+}
+
+
+  .links-uteis > li{
+    font-size: 1.2em;
+    margin: 20px 0px;
+  }
+  
+

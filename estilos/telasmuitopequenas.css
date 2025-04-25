@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.logo img{
+    width: 170px;
+}
+
+.decoration{
+  width: 250px;
+  height: 400px;
+}
+
+
+.img-sobre{
+  width: 200px;
+  height: 350px;
+}
+
+
+.foto-pilares{
+  width: 320px;
+  height: 370px;
+
+}
+.cards{
+  width: 100%;
+
+
+}
+
+.cards h2{
+  font-size: 1.3em;
+
+}
